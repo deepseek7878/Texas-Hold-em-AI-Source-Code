@@ -1,11 +1,11 @@
-# Hold'em AI Source
+# Hold'em AI Source / 德州AI源码/德州源码/德州撲克AI源码合集 / 德州撲克AI源码合集
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/holdem-ai-source?style=for-the-badge)](https://github.com/deepseek7878/holdem-ai-source)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/holdem-ai-source?style=for-the-badge)](https://github.com/deepseek7878/holdem-ai-source)
 [![Languages](https://img.shields.io/github/languages/top/deepseek7878/holdem-ai-source?style=for-the-badge)](https://github.com/deepseek7878/holdem-ai-source)
 [![License](https://img.shields.io/github/license/deepseek7878/holdem-ai-source?style=for-the-badge)](https://github.com/deepseek7878/holdem-ai-source/blob/main/LICENSE)
 
-**Texas Hold'em AI source code collection / 德州AI源码/德州撲克AI源码合集 / 德州撲克AI源码合集**  
+**Texas Hold'em AI source code collection**  
 CFR, Monte Carlo, rule-based, neural network bots for research, learning, and development / CFR、蒙特卡洛、规则AI、神经网络Bot，研究学习开发专用 / CFR、蒙特卡洛、規則AI、神經網絡Bot，研究學習開發專用.
 
 ## 🎯 AI算法一览 / AI Algorithms / AI演算法一覽
